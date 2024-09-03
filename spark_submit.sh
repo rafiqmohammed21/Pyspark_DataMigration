@@ -1,0 +1,1 @@
+spark-submit --master yarn --deploy-mode cluster data_migration.py

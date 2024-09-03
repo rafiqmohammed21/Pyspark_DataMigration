@@ -1,0 +1,1 @@
+hadoop distcp -m 15 hdfs://<source-hdfs-path> gs://<destination-gcs-path>
